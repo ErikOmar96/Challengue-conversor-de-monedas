@@ -8,6 +8,7 @@ import java.text.ParseException;
 import java.util.concurrent.CompletableFuture;
 
 public class CurrencyServiceApi {
+	// Variables finales
 	private final String BASE_URL = "https://v6.exchangerate-api.com/v6";
 	private final String apiKey;
 
